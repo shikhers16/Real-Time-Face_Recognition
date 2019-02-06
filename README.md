@@ -1,5 +1,5 @@
 # Real-Time-Face-Recognition
-Real Time Face Recognition using the face_recognition library and opencv
+Real Time Face Recognition using opencv and a Deep Learning model in keras
 
 # Usage
 1. Install requirements by 	`pip install -r requirements.txt`
